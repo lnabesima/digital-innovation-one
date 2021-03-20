@@ -39,9 +39,25 @@ var count
 for(count=1; count<=5; count++){
     console.log(count)
 };
-*/
+
 var d = new Date;
 alert(d.getDay());
 alert(d.getMonth()+1);
 alert(d.getFullYear());
 alert(d.getDate());
+
+var trajeto = ["mãe", "floresta", "avó"];
+//console.log(trajeto.push("lobo"));
+//console.log(trajeto.pop());
+console.log(trajeto.join(" > "));
+//console.log(trajeto[1]);
+//console.log(trajeto.toString());
+console.log(trajeto);
+
+var d = new Date;
+console.log("Hoje é " + d.getDate() + "/" + (d.getMonth()+1));
+
+var lista = [“Alemanha”, “Inglaterra”, “Escócia”];
+lista.push(“Polônia”);
+lista.pop(“Inglaterra”);
+*/
