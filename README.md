@@ -9,5 +9,5 @@
 7. ~~Introdução à programação com JavaScript~~
 8. Recriando a interface do Netflix
 9. Construindo páginas para internet com Bootstrap
-10. Fundamentos Aritiméticos com JavaScript
+10. ~~Fundamentos Aritiméticos com JavaScript~~
 11. Recriando o jogo da cobrinha com JavaScript
