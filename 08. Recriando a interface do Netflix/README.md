@@ -1,4 +1,4 @@
-###Implementação de um clone da tela inicial do Netflix usando CSS3, JavaScript e jQuery.
+### Implementação de um clone da tela inicial do Netflix usando CSS3, JavaScript e jQuery.
 
 To-Do:
 - Corrigir a interface de acordo com a interface atual;
